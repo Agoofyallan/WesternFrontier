@@ -9,4 +9,4 @@ The goal was to learn core web development skills while designing an interactive
 
 ## Process & Documentation
 - **Iteration History:** See `AllanArriaga - SuperFan Iterative Process Slides.pdf`  
-- **UX Testing:** Feedback from 5 users — see `Allan Arriaga: UX Testing + UI Iteration.pdf`
+- **UX Testing:** Feedback from 5 users — see `Allan Arriaga: Testing.pdf`
