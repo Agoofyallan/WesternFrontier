@@ -1,8 +1,12 @@
 # WesternFrontier
-This is my first project created in CodeSandbox and uploaded to GitHub. I'm a high school student learning web development, and this sandbox represents some of my earliest steps.
+This is my first front-end website, built using **HTML**, **CSS**, and **vanilla JavaScript**.  
+The goal was to learn core web development skills while designing an interactive user experience.
 
-## What I learned
-- Basics of **HTML** structure  
-- Styling pages using **CSS**  
-- Adding interactivity with **JavaScript**  
-- Using CodeSandbox and pushing a project to GitHub
+## Features
+- Fully custom layout and styling  
+- Interactive elements built with vanilla JS  
+- Designed and improved using an iterative development process
+
+## Process & Documentation
+- **Iteration History:** See `AllanArriaga - SuperFan Iterative Process Slides.pdf`  
+- **UX Testing:** Feedback from 5 users — see `Allan Arriaga: UX Testing + UI Iteration.pdf`
